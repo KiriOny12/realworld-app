@@ -1,8 +1,13 @@
 {
   "testuser": {
-    "username": "Katharina_Bernier",
-    "password": "s3cret"
-  },
+    "password": "s3cret",
+    "firstName": "Alice",
+    "lastName": "Homes",
+    "username": "Allie2",
+    "email": "Alice@yahoo.com",
+    "phoneNumber": "072-208-4283",
+    "balance": 164867
+},
   "invaliduser": {
     "username": "invalid_username",
     "password": "invalid_password"
