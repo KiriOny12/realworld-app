@@ -76,17 +76,59 @@
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     },
     {
-      "id": "rBU126r1f",
-      "uuid": "b49ff372-77e8-426a-bfee-1bcdad7d1ea1",
+      "id": "GkzEMrivI",
+      "uuid": "b805a8d7-4c5e-44c2-8eae-08d3c908c79b",
       "firstName": "Test",
-      "lastName": "Test",
-      "username": "Test",
-      "password": "$2a$10$CaTB8UCHrhza4Et37dLkQub3eKPqjcqm/hMR7gMtjyiwX4co9S.Ei",
-      "email": "test@test.com",
-      "phoneNumber": "098574",
+      "lastName": "User",
+      "username": "testuser1754637092771",
+      "password": "$2a$10$IyaCewLB5qgS0Zrd2qwADuXalmnvy6cvsaVaBHwKysi8kdtTuN3Sy",
       "balance": 0,
-      "createdAt": "2022-06-14T18:08:45.628Z",
-      "modifiedAt": "2022-06-14T18:08:45.628Z"
+      "createdAt": "2025-08-08T07:11:33.951Z",
+      "modifiedAt": "2025-08-08T07:11:33.951Z"
+    },
+    {
+      "id": "GvH74QFhA",
+      "uuid": "b9ac44b3-1dce-40e1-a898-d8fb28c6ca37",
+      "firstName": "Test",
+      "lastName": "User",
+      "username": "testuser1754637299978",
+      "password": "$2a$10$qTdJ399u0e2THJf031TMHOL1iQ1j93VVsmMFu6Vgav9GrCjEbS2S6",
+      "balance": 0,
+      "createdAt": "2025-08-08T07:15:09.465Z",
+      "modifiedAt": "2025-08-08T07:15:09.465Z"
+    },
+    {
+      "id": "QPJC8JXaE",
+      "uuid": "3ffb990c-5d18-4524-9dcc-2042b3ae990c",
+      "firstName": "Test",
+      "lastName": "User",
+      "username": "testuser1754637572283",
+      "password": "$2a$10$75TkWDmXMMgtGYCpIpKszOtU35Dr1CL0yzFJ/pRvboTEBEa4.7CUC",
+      "balance": 0,
+      "createdAt": "2025-08-08T07:19:42.054Z",
+      "modifiedAt": "2025-08-08T07:19:42.054Z"
+    },
+    {
+      "id": "_fjMwEx4w",
+      "uuid": "6c01d230-de97-4d2a-87af-c99f633c9441",
+      "firstName": "Test",
+      "lastName": "User",
+      "username": "testuser1754637772234",
+      "password": "$2a$10$aYYtyhhZw5WO0AzIvTEy8eAyT0uMYL27WDgn5jN74sHKXWXiuEWIi",
+      "balance": 0,
+      "createdAt": "2025-08-08T07:23:01.310Z",
+      "modifiedAt": "2025-08-08T07:23:01.310Z"
+    },
+    {
+      "id": "zTAwS398e",
+      "uuid": "30d1428b-5fec-4217-be79-d9f83864f2cf",
+      "firstName": "Test",
+      "lastName": "User",
+      "username": "testuser1754638190137",
+      "password": "$2a$10$ilT.CqKMqx9XPFJ3LoP/MOavdZ3XxVvanr7H74YI6oof5MPkU90fq",
+      "balance": 0,
+      "createdAt": "2025-08-08T07:29:59.253Z",
+      "modifiedAt": "2025-08-08T07:29:59.253Z"
     }
   ],
   "contacts": [
@@ -268,15 +310,59 @@
       "modifiedAt": "2020-05-21T22:40:28.910Z"
     },
     {
-      "id": "IqbXgK7xA",
-      "uuid": "fc1fd02a-1b70-4293-816c-3d1070afcaf7",
-      "userId": "rBU126r1f",
-      "bankName": "my bank",
-      "accountNumber": "548976534",
-      "routingNumber": "2134u5y43",
-      "isDeleted": false,
-      "createdAt": "2022-06-14T18:11:07.496Z",
-      "modifiedAt": "2022-06-14T18:11:07.496Z"
+      "id": "XehLLYB9b",
+      "uuid": "e1839cde-104d-4c39-bf15-51a8d7faae84",
+      "userId": "t45AiwidW",
+      "bankName": "dummy_account_1754637087344",
+      "accountNumber": "1234567890",
+      "routingNumber": "123-12345",
+      "isDeleted": true,
+      "createdAt": "2025-08-08T07:11:28.712Z",
+      "modifiedAt": "2025-08-08T07:11:28.712Z"
+    },
+    {
+      "id": "d3vnR_Sej",
+      "uuid": "23fecbf3-27c5-4c24-bf67-2e52c9be7f83",
+      "userId": "t45AiwidW",
+      "bankName": "dummy_account_1754637253564",
+      "accountNumber": "1234567890",
+      "routingNumber": "123-12345",
+      "isDeleted": true,
+      "createdAt": "2025-08-08T07:14:24.667Z",
+      "modifiedAt": "2025-08-08T07:14:24.667Z"
+    },
+    {
+      "id": "aeSSvvEr5",
+      "uuid": "e89b467c-5103-4748-a0dc-93b1bd6eee15",
+      "userId": "t45AiwidW",
+      "bankName": "dummy_account_1754637520918",
+      "accountNumber": "1234567890",
+      "routingNumber": "123-12345",
+      "isDeleted": true,
+      "createdAt": "2025-08-08T07:18:53.104Z",
+      "modifiedAt": "2025-08-08T07:18:53.104Z"
+    },
+    {
+      "id": "i-DqSi_1B",
+      "uuid": "0b2f09d6-7f6c-47c0-ab32-43f5393be607",
+      "userId": "t45AiwidW",
+      "bankName": "dummy_account_1754637727762",
+      "accountNumber": "1234567890",
+      "routingNumber": "123-12345",
+      "isDeleted": true,
+      "createdAt": "2025-08-08T07:22:18.688Z",
+      "modifiedAt": "2025-08-08T07:22:18.688Z"
+    },
+    {
+      "id": "JFfxiHRzO",
+      "uuid": "09185556-6b3a-45fa-830b-4c34fd2e626b",
+      "userId": "t45AiwidW",
+      "bankName": "dummy_account_1754638145375",
+      "accountNumber": "1234567890",
+      "routingNumber": "123-12345",
+      "isDeleted": true,
+      "createdAt": "2025-08-08T07:29:16.490Z",
+      "modifiedAt": "2025-08-08T07:29:16.490Z"
     }
   ],
   "transactions": [
@@ -9879,54 +9965,6 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
-    },
-    {
-      "id": "OG4deblja",
-      "uuid": "1d23d37f-6c0b-4643-afc6-6c3bcb959a49",
-      "amount": 100,
-      "description": "Test",
-      "receiverId": "t45AiwidW",
-      "senderId": "rBU126r1f",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2022-06-14T18:19:05.425Z",
-      "modifiedAt": "2022-06-14T18:19:05.425Z"
-    },
-    {
-      "id": "pj5TI1PNu",
-      "uuid": "e13b9880-347e-41c5-823b-d16529e3a41b",
-      "amount": 100,
-      "description": "Test",
-      "receiverId": "t45AiwidW",
-      "senderId": "rBU126r1f",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2022-06-14T18:51:53.711Z",
-      "modifiedAt": "2022-06-14T18:51:53.711Z"
-    },
-    {
-      "id": "WFyUiE8fe",
-      "uuid": "76e5200a-6d35-4c7f-a0a5-eac0a65ce924",
-      "amount": 100,
-      "description": "Test",
-      "receiverId": "t45AiwidW",
-      "senderId": "rBU126r1f",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2022-06-14T18:53:45.197Z",
-      "modifiedAt": "2022-06-14T18:53:45.197Z"
-    },
-    {
-      "id": "42ia2iwr2",
-      "uuid": "f774cc64-bfa7-417a-ae82-134d293fe303",
-      "amount": 100,
-      "description": "Test",
-      "receiverId": "t45AiwidW",
-      "senderId": "rBU126r1f",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2022-06-14T18:56:02.904Z",
-      "modifiedAt": "2022-06-14T18:56:02.904Z"
     }
   ],
   "likes": [
@@ -10503,46 +10541,6 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
-    },
-    {
-      "id": "40XuPHZ3gb",
-      "uuid": "9f95d3a1-f252-4145-84b6-7b6ac2d65f2d",
-      "userId": "t45AiwidW",
-      "transactionId": "OG4deblja",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2022-06-14T18:19:05.433Z",
-      "modifiedAt": "2022-06-14T18:19:05.433Z"
-    },
-    {
-      "id": "3H2Gka4NMA",
-      "uuid": "306e0bd9-e028-436b-9255-c6c99edf83cb",
-      "userId": "t45AiwidW",
-      "transactionId": "pj5TI1PNu",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2022-06-14T18:51:53.716Z",
-      "modifiedAt": "2022-06-14T18:51:53.717Z"
-    },
-    {
-      "id": "A1MEod4MMJ",
-      "uuid": "d1228ad7-bbbe-4d1f-af2e-98e601670e4d",
-      "userId": "t45AiwidW",
-      "transactionId": "WFyUiE8fe",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2022-06-14T18:53:45.201Z",
-      "modifiedAt": "2022-06-14T18:53:45.201Z"
-    },
-    {
-      "id": "tgluGAh87G",
-      "uuid": "c9edbda8-5a61-471a-8e76-6619f6a5484f",
-      "userId": "t45AiwidW",
-      "transactionId": "42ia2iwr2",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2022-06-14T18:56:02.908Z",
-      "modifiedAt": "2022-06-14T18:56:02.908Z"
     }
   ],
   "banktransfers": [
