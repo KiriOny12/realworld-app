@@ -6,7 +6,6 @@ import Promise from "bluebird";
 import { percyHealthCheck } from "@percy/cypress/task";
 import codeCoverageTask from "@cypress/code-coverage/task";
 import { defineConfig } from "cypress";
-import "@cypress/instrument-cra";
 const { devServer } = require("@cypress/react/plugins/react-scripts");
 
 dotenv.config({ path: ".env.local" });
@@ -65,6 +64,7 @@ module.exports = defineConfig({
   e2e: {
     baseUrl: "http://localhost:3000",
     specPattern: "cypress/tests/**/*.spec.{js,jsx,ts,tsx}",
+    excludeSpecPattern: "cypress/tests/examples/**",
     supportFile: "cypress/support/e2e.ts",
     viewportHeight: 1000,
     viewportWidth: 1280,
